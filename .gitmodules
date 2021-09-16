@@ -1,0 +1,3 @@
+[submodule "NCore"]
+	path = NCore
+	url = https://github.com/Alys-Elica/NCore
